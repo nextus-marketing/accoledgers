@@ -1,0 +1,33 @@
+.section-title h1,
+.section-title h2 {
+    font-size: 50px;
+    letter-spacing: -0.03em;
+    font-weight: 600;
+    margin-bottom: 0;
+    line-height: 1.2;
+}
+
+.we-help-title h3 {
+    font-size: 18px;
+    text-transform: capitalize;
+    line-height: 1.4rem;
+}
+
+.page-pricing {
+    padding: 10px 0 70px;
+}
+
+.highlights {
+    color: #ff8159;
+}
+
+.footer-copyright {
+    border-top: 1px solid var(--dark-divider-color);
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer-title h2 {
+    font-size: 45px;
+    color: var(--white-color);
+}
