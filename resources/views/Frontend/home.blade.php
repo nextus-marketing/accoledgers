@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Home | Accoledgers @endsection
+@section('title')AccoLedgers – Professional Accounting, Bookkeeping & Tax Management Services @endsection
 @section('content')
 
     <!-- Hero Section Start -->
