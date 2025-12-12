@@ -28,7 +28,7 @@
 }
 
 .footer-title h2 {
-    font-size: 45px;
+    font-size: 35px;
     color: var(--white-color);
 }
 
@@ -62,4 +62,8 @@
         margin-left: 0px;
         margin-bottom: 0px;
     }
+}
+
+.footer-body {
+    margin-bottom: 40px;
 }

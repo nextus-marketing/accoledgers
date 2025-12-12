@@ -99,10 +99,10 @@
                     <!-- Footer About Start -->
                     <div class="footer-about">
                         <div class="row">
-                            <div class="col-lg-5">
+                            <div class="col-lg-6">
                                 <!-- Footer Logo Start -->
                                 <div class="footer-logo">
-                                    <img src="/frontend/my-img/footer-logo.png" alt="footer-logo"  style="width:300px; height:76px;">
+                                    <img src="/frontend/my-img/footer-logo.png" alt="footer-logo"  style="width:300px; height:90px;">
                                 </div>
                                 <!-- Footer Logo End -->
                             </div>
