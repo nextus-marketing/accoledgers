@@ -259,7 +259,7 @@
                 <div class="col-lg-4">
                     <!-- Section Btn Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="+1234567890" class="btn-default btn-highlighted btn-large">Call Now</a>
+                        <a href="+1234567890" class="btn-default btn-highlighted btn-large">Talk To An Expert</a>
                     </div>
                     <!-- Section Btn End -->
                 </div>
