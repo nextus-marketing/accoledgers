@@ -34,7 +34,7 @@
 
 .light-bg-section {
     position: relative;
-    width: 100%;
+    width: 98%;
     max-width: 1600px;
     background: var(--secondary-color);
     border-radius: 40px;
@@ -53,11 +53,13 @@
 }
 
 .hero-content {
-    margin-left: 30px;
+    margin-left: 40px;
+    margin-bottom: 50px;
 }
 
 @media only screen and (max-width: 767px) {
     .hero-content {
-        margin-left: 5px;
+        margin-left: 0px;
+        margin-bottom: 0px;
     }
 }
