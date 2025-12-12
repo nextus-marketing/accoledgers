@@ -23,7 +23,7 @@
 
 .footer-copyright {
     border-top: 1px solid var(--dark-divider-color);
-    text-align: center;
+    text-align: left;
     padding: 10px 0;
 }
 

@@ -185,16 +185,16 @@
                     <!-- Copyright Footer Start -->
 					<div class="footer-copyright">
                         <div class="container">
-                            <div class="row align-items-center">
+                            <div class="row">
                                 <!-- Left Side: Copyright -->
                                <div class="col-md-6 text-left">
-                                    <p style="color: #ffffff;">© 2025 AccoLedgers. All rights reserved.</p>
+                                    <p style="color: #ffffff; align-item:center;">© 2025 AccoLedgers. All rights reserved.</p>
                                 </div>
 
                                 <!-- Right Side: Privacy Policy -->
                                 <div class="col-md-6 text-md-right text-left mt-2 mt-md-0">
-                                    <a href="/privacy-policy"  style="color: #ffffff;">Privacy Policy</a> ||
-                                    <a href="/terms-and-condition"  style="color: #ffffff;">Terms And Conditions</a>
+                                    <a href="/privacy-policy"  style="color: #ffffff;" class="me-2">Privacy Policy</a> <span class="me-2">||</span> 
+                                    <a href="/terms-and-condition"  style="color: #ffffff;" >Terms And Conditions</a>
                                 </div>
                             </div>
                         </div>
