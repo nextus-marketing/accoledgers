@@ -621,7 +621,7 @@
                                                 </figure>
                                             </div>
                                             <div class="author-content">
-                                                <h2>john doe</h2>
+                                                <h2>John Nelson</h2>
                                             </div>
                                         </div>
                                         <div class="testimonial-body">
@@ -641,7 +641,7 @@
                                                 </figure>
                                             </div>
                                             <div class="author-content">
-                                                <h2>banson doe</h2>
+                                                <h2>Janson Doe</h2>
                                             </div>
                                         </div>
                                         <div class="testimonial-body">
@@ -661,7 +661,7 @@
                                                 </figure>
                                             </div>
                                             <div class="author-content">
-                                                <h2>arita Miller</h2>
+                                                <h2>Arita Miller</h2>
                                             </div>
                                         </div>
                                         <div class="testimonial-body">
