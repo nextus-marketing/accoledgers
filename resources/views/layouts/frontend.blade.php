@@ -102,7 +102,7 @@
                             <div class="col-lg-5">
                                 <!-- Footer Logo Start -->
                                 <div class="footer-logo">
-                                    <img src="/frontend/my-img/footer-logo.png" alt="footer-logo"  style="width:300px; height:90px;">
+                                    <img src="/frontend/my-img/footer-logo.png" alt="footer-logo"  style="width:300px; height:76px;">
                                 </div>
                                 <!-- Footer Logo End -->
                             </div>

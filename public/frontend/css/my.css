@@ -45,3 +45,9 @@
 .pb-5 {
     padding-bottom: 3rem !important;
 }
+
+@media only screen and (max-width: 767px) {
+    .footer-logo img {
+        max-width: 220px;
+    }
+}
