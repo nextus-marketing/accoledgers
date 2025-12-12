@@ -42,7 +42,7 @@
 			<div class="loading"></div>
 			<div id="loading-icon"><img src="/frontend/images/loader.svg" alt=""></div>
 		</div>
-	</div> -->
+	</div> --> 
 	<!-- Preloader End -->
 
 	<!-- Magic Cursor Start -->

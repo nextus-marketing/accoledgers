@@ -8,7 +8,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <!-- Hero Left Content Start -->
-                    <div class="hero-content">
+                    <div class="hero-content pb-5">
                         <!-- Google Rating Start -->
                         <div class="google-rating wow fadeInUp">
                              <ul>
@@ -599,7 +599,7 @@
 
                         <!-- Section Body Start -->
                         <div class="section-body">
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">Behind every successful partnership is a story worth sharing. Our clients trust us to simplify their finances, deliver accurate results, and support their growth—here’s what they have to say.</p>
                             <a href="+1234567890" class="btn-default wow fadeInUp" data-wow-delay="0.5s">contact us</a>
                         </div>
                         <!-- Section Body Btn End -->
